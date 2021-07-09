@@ -1,0 +1,44 @@
+.font-container__text_weight_bold {
+  font-weight: bold;
+}
+
+.font-container__text_weight_normal {
+  font-weight: normal;
+}
+
+.font-container__text_weight_semibold {
+  font-weight: 600;
+}
+
+/*TODO delete*/
+
+div, h2, h3, p {
+  border: 1px solid red;
+}
+
+
+video {
+  width: 100%;
+}
+
+.cities__video-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+
+
+/*flex-table*/
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+.cards__image {
+  /*display: block;*/
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background-size: cover;
+  margin: 0 40px 0;
+  background: center;
+  border: 1px solid red;
+}
