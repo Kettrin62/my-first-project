@@ -7,7 +7,6 @@
   position: absolute;
   top: 50%;
   right: 48px;
-  border: 1px solid red;
   transition: opacity .5s ease;
 }
 
